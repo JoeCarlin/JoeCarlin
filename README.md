@@ -1,7 +1,7 @@
 Hi 👋 My name is Joe Carlin
 ===========================
 
-full-stack development and cybersecurity
+BS. In Computer Science and cybersecurity
 ----------------------------------------
 
 Student at the University of North Carolina Wilmington
