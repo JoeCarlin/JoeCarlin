@@ -1,7 +1,7 @@
 Hi 👋 My name is Joe Carlin
 ===========================
 
-BS. In Computer Science and cybersecurity
+BS. In Computer Science, Concentration in cybersecurity
 ----------------------------------------
 
 Student at the University of North Carolina Wilmington
