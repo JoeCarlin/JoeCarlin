@@ -1,7 +1,7 @@
 Hi 👋 My name is Joe Carlin
 ===========================
 
-BS. In Computer Science, Concentration in cybersecurity
+Software Engineer
 ----------------------------------------
 
 Student at the University of North Carolina Wilmington
@@ -10,5 +10,5 @@ Student at the University of North Carolina Wilmington
 *   🖥️  See my portfolio at [MyPortfolio](http:// )
 *   ✉️  You can contact me at [joecarlin30@gmail.com](mailto:joecarlin30@gmail.com)
 *   🚀  I'm currently working on ([CompTIA Security +]())
-*   🧠  I'm learning Python with AI
+*   🧠  I'm learning Python and OpenCV
 *   🤝  I'm open to collaborating on Projects
