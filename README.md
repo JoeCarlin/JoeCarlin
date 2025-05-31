@@ -1,7 +1,7 @@
-Hi 👋 Im Joe Carlin
+Hi 👋 I'm Joe Carlin
 ===========================
 
-Software Engineer
+ Backend Software Engineer
 ----------------------------------------
 *   🌍  I'm based in North Carolina
 *   ✉️  You can contact me at [joecarlin30@gmail.com](mailto:joecarlin30@gmail.com)
